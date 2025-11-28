@@ -3,7 +3,7 @@
 
 <h2>Description</h2>
 
-This project implements a full Zero Trust Network Architecture using Microsoft Entra ID as the identity control plane. The design enforces strict identity verification, device health validation, micro-segmentation, and continuous monitoring across all users, devices, applications, and network segments.
+This project demonstrates a full Zero Trust Network Architecture using Microsoft Entra ID as the identity control plane. The design enforces strict identity verification, device health validation, micro-segmentation, and continuous monitoring across all users, devices, applications, and network segments.
 
 Access decisions are driven by Conditional Access, device compliance, and risk-based evaluation, ensuring that only authenticated, authorized, and trusted entities can interact with sensitive systems such as HR, Finance, and EHR workloads. Administrative privileges are isolated through Privileged Identity Management (PIM) and Privileged Access Workstations (PAWs) to minimize lateral movement and privilege escalation.
 
